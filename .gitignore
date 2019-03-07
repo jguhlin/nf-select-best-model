@@ -25,3 +25,4 @@ my-results
 *.fna
 *.fq
 *.fastq
+*.aa
